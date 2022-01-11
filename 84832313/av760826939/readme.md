@@ -10,6 +10,8 @@ P1
 
 ipfs链接：https://bafybeiay5rjq553uitsybumtamm6gu53i5wuxloen7557mt4ispiu6j7xu.ipfs.dweb.link/
 
+cdndrive：bjdrive://faf37d69ec8f718ab387192ec9c9b97d
+
 P2
 
 ipfs链接：https://bafybeidamfu6mocsq7b5p7suyrqnqpjpmf3f5brajvm2rgfgprpbmymswa.ipfs.dweb.link/
